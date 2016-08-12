@@ -1,6 +1,8 @@
-TADSG Materials
-用來放讀書會各種通用素材的地方（例如：讀書會Logo）
+<center><img src="icons/tadsg_icon.png" width="250"></center>
 
+# TADSG Materials
+
+用來放讀書會各種通用素材的地方（例如：讀書會Logo）
 
 # License (版權聲明)
 
